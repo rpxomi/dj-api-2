@@ -1,2 +1,2 @@
 # dj-api-2
-usando MySQL
+API con Django REST Framework usando MySQL
